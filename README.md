@@ -51,3 +51,10 @@ childcare-stipend-roi/
 2. Run `childcare_data_exploration.ipynb` first for initial data review
 3. Run `childcare_burden_analysis.ipynb` for the full analysis and visualizations
 4. Open `ROI_Dashboard.pbix` in Power BI Desktop to interact with the ROI calculator
+
+  
+---
+  
+*Part of my [Data Science Portfolio](https://github.com/nananmorgan/data-science-portfolio)*
+  
+---
